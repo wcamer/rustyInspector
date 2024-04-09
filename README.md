@@ -5,7 +5,7 @@ This is an introductory project for the a beginner in the Rust coding language. 
 ## Description
 This is a command-line interface game called Rusty Inspector.  This game was coded in Rust and has the following features, user input/output, struct declaration and manipulation, variable declaration and manipulation, and conditionals.  The main purpose of this project is to gain experience with this new coding language and build a game that can be improved on with future updates.
 ### Video Demo
-[Rusty Inspector Demo](http://youtube.link.goes.here)
+[Rusty Inspector Demo](https://www.youtube.com/watch?v=4UtdzCR7BxE)
 
 ## Development Environment
 Windows 11
